@@ -1,0 +1,11 @@
+.img{
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  padding-top: 50px;
+  padding-left: 50px;
+}
